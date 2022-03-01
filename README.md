@@ -21,6 +21,10 @@ ___
 <br>
 
 ___
+#### :boom: Codewars
+<img alt="codewars" src="https://www.codewars.com/users/oldman_willow/badges/small" />
+
+___
 #### ⚡️ Statistics:
 ![](https://komarev.com/ghpvc/?username=bgtckt)
 
