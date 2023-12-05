@@ -1,5 +1,5 @@
 ### Hello to everyone! 👋 My name is Alexey.
-#### :man: I'm a Junior Web Developer.
+#### :man: I'm a Web Developer.
 ___
 #### 📫 Reach me:
 [<img align="left" alt="AlexeyAnpilov | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/oldman_willow)
